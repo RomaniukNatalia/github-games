@@ -1,4 +1,5 @@
 *          @ROMANIUKNATALIA
 #/.github/  @ROMANIUKNATALIA
-/.github/CODEOWNERS @MATHTEACH-STAR
+#/.github/CODEOWNERS @MATHTEACH-STAR
+/.github/RomaniukNatalia/github-games/blob/main/CODEOWNERS @MATHTEACH-STAR
 *.js       @MATHTEACH-STAR
